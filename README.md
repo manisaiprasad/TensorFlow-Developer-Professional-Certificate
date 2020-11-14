@@ -14,3 +14,7 @@
 [Programming Assignment: Handling Complex Images](https://github.com/manisaiprasad/TensorFlow-Developer-Professional-Certificate/blob/master/1.Introduction%20to%20TensorFlow/week4/utf-8''Exercise4-Question.ipynb)
 
 ## Course 2: Convolutional Neural Networks in TensorFlow
+### Week 1 : Exploring a Larger Dataset
+[Programming Assignment:  Cats vs. Dogs](https://github.com/manisaiprasad/TensorFlow-Developer-Professional-Certificate/blob/master/2.Convolutional%20Neural%20Networks%20in%20TensorFlow/Week1-Cats_vs_Dogs_Question-FINAL.ipynb)
+### Week 2 : Augmentation: A technique to avoid overfitting
+[Programming Assignment: Cats vs. Dogs using augmentation](https://github.com/manisaiprasad/TensorFlow-Developer-Professional-Certificate/blob/master/2.Convolutional%20Neural%20Networks%20in%20TensorFlow/Week-2-Exercise_2_Cats_vs_Dogs_using_augmentation_Question-FINAL.ipynb)
