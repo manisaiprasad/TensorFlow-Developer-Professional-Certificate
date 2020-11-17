@@ -18,3 +18,7 @@
 [Programming Assignment:  Cats vs. Dogs](https://github.com/manisaiprasad/TensorFlow-Developer-Professional-Certificate/blob/master/2.Convolutional%20Neural%20Networks%20in%20TensorFlow/Week1-Cats_vs_Dogs_Question-FINAL.ipynb)
 ### Week 2 : Augmentation: A technique to avoid overfitting
 [Programming Assignment: Cats vs. Dogs using augmentation](https://github.com/manisaiprasad/TensorFlow-Developer-Professional-Certificate/blob/master/2.Convolutional%20Neural%20Networks%20in%20TensorFlow/Week-2-Exercise_2_Cats_vs_Dogs_using_augmentation_Question-FINAL.ipynb)
+### Week 3 : Transfer Learning
+[Programming Assignment: Horses vs. humans using Transfer Learning](https://github.com/manisaiprasad/TensorFlow-Developer-Professional-Certificate/blob/master/2.Convolutional%20Neural%20Networks%20in%20TensorFlow/utf-8''Exercise_3_Horses_vs_humans_using_Transfer_Learning_Question-FINAL.html)
+### Week 4 : Multiclass Classifications
+[Programming Assignment: Multi-class classifier](https://github.com/manisaiprasad/TensorFlow-Developer-Professional-Certificate/blob/master/2.Convolutional%20Neural%20Networks%20in%20TensorFlow/utf-8''Exercise_4_Multi_class_classifier_Question-FINAL.ipynb)
